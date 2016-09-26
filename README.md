@@ -1,4 +1,7 @@
 # redstone
+
+![GitHub Logo](/minecraft.png)
+
 Minecraft calculator created by using redstone and sequential logic 
 
 8 bit unsigned addition/subtraction using ALU
